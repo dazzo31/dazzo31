@@ -1,8 +1,8 @@
 # Hi there, I'm dazzo31 👋
 
-I build reliable, hardened system utilities, developer tools, and automation solutions across **Windows, PowerShell, .NET, and the Web** — designed with a focus on data safety, zero telemetry, and predictable execution.
+I build system utilities, developer tools, and automation scripts across **Windows, PowerShell, .NET, and the Web**, focused on making practical and reliable solutions.
 
-Beyond systems engineering, I love gaming and actively give back to the gaming community by **maintaining and modernizing older mods and tools for games I love**, keeping classic community creations alive, compatible, and performing on modern runtimes and server platforms.
+Beyond systems tooling, I love gaming and actively help the gaming community where I can by **maintaining and updating older mods and tools for games I love**.
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/dazzo31)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/dazzo31)
