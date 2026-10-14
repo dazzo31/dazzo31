@@ -1,6 +1,6 @@
 # Hi there, I'm dazzo31 👋
 
-I build system utilities, developer tools, and automation scripts across **Windows, PowerShell, .NET, and the Web**, focused on making practical and reliable solutions.
+I build system utilities, developer tools, and automation scripts across **Windows, PowerShell, .NET, and the Web**.
 
 Beyond systems tooling, I love gaming and actively help the gaming community where I can by **maintaining and updating older mods and tools for games I love**.
 
