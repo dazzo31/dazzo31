@@ -42,6 +42,14 @@ Beyond systems tooling, I love gaming and actively help the gaming community whe
 
 ---
 
+### ☁️ [aws-windows-domain-runbooks](https://github.com/dazzo31/aws-windows-domain-runbooks)
+**AWS Systems Manager Automation & Windows Domain Operations.**
+- **Offline-verified operations:** SSM automation documents, CloudFormation templates, and Step Functions fleet orchestration for self-managed Windows Server, Active Directory, and WSUS on EC2.
+- **Fail-closed security invariants:** Decoupled consumer architecture with human approval gates, Tier 0 identity boundaries, and durable DynamoDB operation locks.
+- *Tech:* AWS Systems Manager, Step Functions, CloudFormation, PowerShell 5.1, Node.js 20.
+
+---
+
 ## 🎮 Gaming & Community Mod Preservation
 
 I actively maintain and modernize classic community mods to ensure they remain playable on modern Java, runtime versions, and server architectures:
