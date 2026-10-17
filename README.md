@@ -35,19 +35,18 @@ Beyond systems tooling, I love gaming and actively help the gaming community whe
 - *Tech:* Pure Windows PowerShell 5.1 / PowerShell 7, WinRM-free update search engine.
 
 ---
+### 🖥️ [WUU2](https://github.com/dazzo31/WUU2)
+**Windows Update Utility — GUI Edition.**
+- **Enterprise update management:** Phased wave deployments, WSUS update auditing, and custom credential caching without UI freezes or deadlocks.
+- *Tech:* PowerShell, WPF/XAML, WMI/DCOM CIM sessions.
+
+---
 
 ### 📁 [TidyUp](https://github.com/dazzo31/Tidy-up)
 **Automated File Organization & System Cleanup Utility for Windows.**
 - **Hardened safety invariants:** Zero-loss model sending files to Windows Recycle Bin, pre-execution SHA-256 integrity verification, and full SQLite transactional rollback.
 - **Intelligent automation:** 4-stage guided rule wizard, live directory permission auditing, hash-based duplicate isolation, and background scheduled maintenance.
 - *Tech:* .NET 9 (C#), WPF, SQLite, Shell COM.
-
----
-
-### 🖥️ [WUU2](https://github.com/dazzo31/WUU2)
-**Windows Update Utility — GUI Edition.**
-- **Enterprise update management:** Phased wave deployments, WSUS update auditing, and custom credential caching without UI freezes or deadlocks.
-- *Tech:* PowerShell, WPF/XAML, WMI/DCOM CIM sessions.
 
 ---
 
@@ -63,9 +62,9 @@ Beyond systems tooling, I love gaming and actively help the gaming community whe
 
 I actively maintain and modernize classic community mods to ensure they remain playable on modern Java, runtime versions, and server architectures:
 
+- **[GoG2Steam](https://github.com/dazzo31/GoG2Steam)** — Automated bridge importing GOG Galaxy game libraries directly into Steam non-Steam shortcuts with authoritative PlayTasks executable detection.
 - **[PorteCoulissante](https://github.com/dazzo31/PorteCoulissante)** — Modern update of the classic Bukkit portcullis automation plugin for Minecraft 1.21+ on Java 21.
 - **[RetractableBridges](https://github.com/dazzo31/RetractableBridges)** — Maintained redstone-powered drawbridge automation plugin for modern Spigot/Paper servers.
-- **[GoG2Steam](https://github.com/dazzo31/GoG2Steam)** — Automated bridge importing GOG Galaxy game libraries directly into Steam non-Steam shortcuts with authoritative PlayTasks executable detection.
 - **[Stargate-Mapper](https://github.com/dazzo31/Stargate-Mapper)** — Live map visualization addon integrating Stargate portals across Dynmap, BlueMap, Squaremap, and Pl3xMap.
 - **[MC-Plugin-Manager](https://github.com/dazzo31/MC-Plugin-Manager)** — Node.js multi-server plugin updater pulling from Spiget, Modrinth, and GitHub releases.
 - **[factorio-achievement-fix](https://github.com/dazzo31/factorio-achievement-fix)** — Save game compatibility utility for Factorio players.
