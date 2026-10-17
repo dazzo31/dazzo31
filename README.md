@@ -19,6 +19,15 @@ Beyond systems tooling, I love gaming and actively help the gaming community whe
 
 ---
 
+### 🌍 [Terraform Unstuck](https://github.com/dazzo31/terraformunstuck) • [Live Web App ↗](https://dazzo31.github.io/terraformunstuck/)
+**The Visual Learning Guide & Practical Troubleshooting Companion for Terraform.**
+- **Four-Zone Mental Model & 22 Diagnostic Guides:** Demystifies the relationship between desired configuration, recorded state, actual infrastructure, and proposed plans with calm, step-by-step recovery trees.
+- **100% Client-Side Error Analyser:** Local regex-driven error matcher with ranked diagnostic specificity, zero data transmission, and zero telemetry.
+- **Local Practice Simulator:** Practice refactoring and child module moves (`moved` blocks) using the built-in `terraform_data` resource completely offline without cloud accounts or credentials.
+- *Tech:* Vanilla HTML5, CSS3, Modern ES Modules, Native Web Components (Zero runtime dependencies).
+
+---
+
 ### 💻 [WUU2-CLI](https://github.com/dazzo31/WUU2-CLI)
 **Windows Update Utility — Headless Console Edition.**
 - **Fleet-wide patch orchestration:** Check, download, install, and reboot Windows Updates across remote machines from an interactive console or scriptable pipeline.
@@ -73,6 +82,7 @@ I actively maintain and modernize classic community mods to ensure they remain p
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-1.x-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
